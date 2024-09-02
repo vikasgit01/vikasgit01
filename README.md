@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikasgit01&label=Profile%20views&color=0e75b6&style=flat" alt="vikasgit01" /> </p>
 
-- 🌱 I’m currently learning **C++, SFML and OPENGL**
+//- 🌱 I’m currently learning **C++, SFML and OPENGL**
 
 - 💬 Ask me about **Android, Unity**
 
